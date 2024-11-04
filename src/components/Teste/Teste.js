@@ -1,13 +1,13 @@
 import React from "react";
 
-const Teste =()=>{
-
-    return(
+const Teste = ({ message }) => {
+    return (
         <>
-           <p>TESTE luzolo</p>
+            <p>{message}</p>
+            <h1>Teste concluido ! </h1>
         </>
     );
-
 }
 
 export default Teste;
+
