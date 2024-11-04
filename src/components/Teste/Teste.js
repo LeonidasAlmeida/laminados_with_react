@@ -4,7 +4,7 @@ const Teste = ({ message }) => {
     return (
         <>
             <p>{message}</p>
-            <h1>Teste concluidojjjjjjjjjjjjjjjjjjjjj ! </h1>
+            <h1>Teste feito </h1>
         </>
     );
 }
