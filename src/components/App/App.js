@@ -3,8 +3,7 @@ import Teste from "../Teste/Teste";
 function App() {
   return (
     <div>
-          ola mundo !
-          <Teste />
+          <Teste message={"Matondo"} />
     </div>
   );
 }
