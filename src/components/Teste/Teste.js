@@ -4,7 +4,7 @@ const Teste =()=>{
 
     return(
         <>
-           <p>TESTE FUNCIONANDO ! </p>
+           <p>TESTE luzolo</p>
         </>
     );
 
